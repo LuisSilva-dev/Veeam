@@ -1,0 +1,15 @@
+C:\Users\Luis Silva\Desktop\Veeam\Veeam\bin\Debug\net8.0\Veeam.exe
+C:\Users\Luis Silva\Desktop\Veeam\Veeam\bin\Debug\net8.0\Veeam.deps.json
+C:\Users\Luis Silva\Desktop\Veeam\Veeam\bin\Debug\net8.0\Veeam.runtimeconfig.json
+C:\Users\Luis Silva\Desktop\Veeam\Veeam\bin\Debug\net8.0\Veeam.dll
+C:\Users\Luis Silva\Desktop\Veeam\Veeam\bin\Debug\net8.0\Veeam.pdb
+C:\Users\Luis Silva\Desktop\Veeam\Veeam\obj\Debug\net8.0\Veeam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Silva\Desktop\Veeam\Veeam\obj\Debug\net8.0\Veeam.AssemblyInfoInputs.cache
+C:\Users\Luis Silva\Desktop\Veeam\Veeam\obj\Debug\net8.0\Veeam.AssemblyInfo.cs
+C:\Users\Luis Silva\Desktop\Veeam\Veeam\obj\Debug\net8.0\Veeam.csproj.CoreCompileInputs.cache
+C:\Users\Luis Silva\Desktop\Veeam\Veeam\obj\Debug\net8.0\Veeam.sourcelink.json
+C:\Users\Luis Silva\Desktop\Veeam\Veeam\obj\Debug\net8.0\Veeam.dll
+C:\Users\Luis Silva\Desktop\Veeam\Veeam\obj\Debug\net8.0\refint\Veeam.dll
+C:\Users\Luis Silva\Desktop\Veeam\Veeam\obj\Debug\net8.0\Veeam.pdb
+C:\Users\Luis Silva\Desktop\Veeam\Veeam\obj\Debug\net8.0\Veeam.genruntimeconfig.cache
+C:\Users\Luis Silva\Desktop\Veeam\Veeam\obj\Debug\net8.0\ref\Veeam.dll
